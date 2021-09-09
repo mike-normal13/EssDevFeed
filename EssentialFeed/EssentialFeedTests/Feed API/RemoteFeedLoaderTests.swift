@@ -1,7 +1,6 @@
 //
 //  RemoteFeedLoaderTests.swift
 //  EssentialFeedTests
-//
 //  Created by Michael Fleming on 8/21/21.
 
 import XCTest
